@@ -14,10 +14,10 @@ Fair use of intents and a bug free algorithm to match your character with total 
 </div>
 
 <br>
-### Result precision
+<h3>Result precision<h3>
 <br>Tells which character you are with a funny description.<br>
 
 <div class="row">
-      <img src="/app/Screenshot_20200924-180436_Fictional%20Character%20Quiz.jpg" width="250" title="Game Title">
-      <img src="/app/Screenshot_20200924-183516_Fictional%20Character%20Quiz.jpg" width="250" title="Question 1">     
+      <img src="/app/Screenshot_20200924-180436_Fictional%20Character%20Quiz.jpg" width="250" title="Question 4">
+      <img src="/app/Screenshot_20200924-183518_Fictional%20Character%20Quiz.jpg" width="250" title="Result Screen">     
 </div>
