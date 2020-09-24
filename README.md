@@ -5,7 +5,7 @@ Fair use of intents and a bug free algorithm to match your character with total 
 
 
 
-### Intuitive UI
+## Intuitive UI
 
 User friendly app experience that increases robustness.
 
@@ -15,7 +15,7 @@ User friendly app experience that increases robustness.
 </div>
 
 
-### Result precision
+## Result precision
 
 Tells which character you are with a funny description.
 
