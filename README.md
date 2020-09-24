@@ -5,8 +5,8 @@ Fair use of intents and a bug free algorithm to match your character with total 
 
 
 
-<h3>Intuitive UI</h3>
-***
+### Intuitive UI
+
 User friendly app experience that increases robustness.
 
 <div class="row">
@@ -15,8 +15,8 @@ User friendly app experience that increases robustness.
 </div>
 
 
-<h3>Result precision</h3>
-***
+### Result precision
+
 Tells which character you are with a funny description.
 
 <div class="row">
