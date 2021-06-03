@@ -10,8 +10,8 @@ Fair use of intents and a bug free algorithm to match your character with total 
 User friendly app experience that increases robustness.
 
 <div class="row">
-      <img src="/app/Screenshot_20200924-180353_Fictional%20Character%20Quiz.jpg" width="250" title="Game Title">
-      <img src="/app/Screenshot_20200924-183406_Fictional%20Character%20Quiz.jpg" width="250" title="Question 1">     
+      <img src="/app/Screenshot_20200924-180353_Fictional%20Character%20Quiz.png" width="250" title="Game Title">
+      <img src="/app/Screenshot_20200924-183406_Fictional%20Character%20Quiz.png" width="250" title="Question 1">     
 </div>
 
 
@@ -20,6 +20,6 @@ User friendly app experience that increases robustness.
 Tells which character you are with a funny description.
 
 <div class="row">
-      <img src="/app/Screenshot_20200924-180436_Fictional%20Character%20Quiz.jpg" width="250" title="Question 4">
-      <img src="/app/Screenshot_20200924-180518_Fictional%20Character%20Quiz.jpg" width="250" title="Result Screen">     
+      <img src="/app/Screenshot_20200924-180436_Fictional%20Character%20Quiz.png" width="250" title="Question 4">
+      <img src="/app/Screenshot_20200924-180518_Fictional%20Character%20Quiz.png" width="250" title="Result Screen">     
 </div>
